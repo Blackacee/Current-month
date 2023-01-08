@@ -1,2 +1,5 @@
 # Current-month
-Current month code in JS 
+
+var month = (new Date()).getMonth();
+console.log(month);
+// Sample output: 0
